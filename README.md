@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @DartWoaK
-- 👀 I’m interested in coding
+- I’m @DartWoaK. I like code 💻
 
 <!---
 DartWoaK/DartWoaK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
