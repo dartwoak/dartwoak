@@ -1,4 +1,4 @@
-- I’m @DartWoaK. I'm web and mobile developer. I like coding 💻
+- I’m @dartwoaK. I'm web and mobile developer. I like coding 💻
 
 <!---
 DartWoaK/DartWoaK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
